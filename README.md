@@ -103,7 +103,7 @@ If deploying to the cloud isn't possible, record a short video demo using [Loom]
 
 ## ✍️ Author
 
-**[Your Name Here]**
+**Biswajeet Dixit**
 
 ---
 
